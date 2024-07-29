@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to ThenTreesBank accounts related QA APIs "
+  contactDetails:
+    name: "Then Trees - QA Lead"
+    email: "smitha@thentrees.com"
+  onCallSupport:
+    - (+84) 385 788 328
+    - (+84) 938 749 250
