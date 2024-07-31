@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ffd1de7-139b-4614-b006-48f688b7751b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
     "Spring Boot.LoansApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IntelliJ/microservice/section6/v2-spring-cloud-config/loans/src/main/resources",
+    "last_opened_file_path": "D:/IntelliJ/microservice/section7",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,6 +82,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ\microservice\section6\v2-spring-cloud-config\docker-compose\qa" />
+      <recent name="D:\IntelliJ\microservice\section6\v2-spring-cloud-config\docker-compose\prod" />
       <recent name="D:\IntelliJ\microservice\section6\v2-spring-cloud-config\loans\src\main\resources" />
       <recent name="D:\IntelliJ\microservice\section6\v2-spring-cloud-config\cards\src\main\resources" />
       <recent name="D:\IntelliJ\microservice\section6\v2-spring-cloud-config\accounts\src\main\resources" />
@@ -181,7 +183,7 @@
       <workItem from="1722244370498" duration="7632000" />
       <workItem from="1722328417979" duration="11578000" />
       <workItem from="1722395001262" duration="2782000" />
-      <workItem from="1722410625172" duration="4969000" />
+      <workItem from="1722410625172" duration="5453000" />
     </task>
     <servers />
   </component>
