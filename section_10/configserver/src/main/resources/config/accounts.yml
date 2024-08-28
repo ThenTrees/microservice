@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to ThentreesBanl accounts related local APIs "
+  contactDetails:
+    name: "Then Trees - Prod owner"
+    email: "smitha@thentrees.com"
+  onCallSupport:
+      - (+84) 385 788 328
+      - (+84) 938 749 250
